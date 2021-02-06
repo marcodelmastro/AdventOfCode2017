@@ -11,3 +11,6 @@
 * Day 7: 2021-02-06
   * Part 1: Simple tree navigation using dictionaryy
   * Part 2: Recursive function to compute tower weight + tree searching
+* Day 8: 2021-02-06
+  * Programmin instructions to increase and decrease register values. 
+  * Using `defaultdict` to store values in order to avoid having to pre-process register names.
