@@ -9,7 +9,7 @@
 * Day 5: 2021-02-05
 * Day 6: 2021-02-05
 * Day 7: 2021-02-06
-  * Part 1: Simple tree navigation using dictionaryy
+  * Part 1: Simple tree navigation using dictionary
   * Part 2: Recursive function to compute tower weight + tree searching
 * Day 8: 2021-02-06
   * Programming instructions to increase and decrease register values. 
@@ -18,3 +18,5 @@
   * String processing. Use raw string `r''` to avoid missing special characters.
 * Day 10: 2021-02-10
   * Array slicing and manipulation (simple circular list), ASCII codes, `hex` decoding. Boring.
+* Day 11: 2021-02-10
+  * Hexe grid representation on square grid, with distance calculation
