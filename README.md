@@ -16,3 +16,5 @@
   * Using `defaultdict` to store values in order to avoid having to pre-process register names.
 * Day 9: 2021-02-07
   * String processing. Use raw string `r''` to avoid missing special characters.
+* Day 10: 2021-02-10
+  * Array slicing and manipulation (simple circular list), ASCII codes, `hex` decoding. Boring.
