@@ -22,3 +22,6 @@
   * Hexe grid representation on square grid, with distance calculation
 * Day 12: 2021-02-10
   * Recursive connections to be sorted out.
+* Day 13: 
+  * Part 1: 2021-02-11. Prime number module evolution.
+  
