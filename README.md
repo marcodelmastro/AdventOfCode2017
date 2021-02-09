@@ -20,3 +20,5 @@
   * Array slicing and manipulation (simple circular list), ASCII codes, `hex` decoding. Boring.
 * Day 11: 2021-02-10
   * Hexe grid representation on square grid, with distance calculation
+* Day 12: 2021-02-10
+  * Recursive connections to be sorted out.
