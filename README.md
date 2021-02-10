@@ -30,5 +30,5 @@
   * Linear congruent generators. Using `yield` to align generators with different period.
 * Day 16: 2021-02-10
   * More string manipulation. Part 2 was a HUGE loop, to be solved looking for a shorter period.
-
-  
+* Day 17: 2021-02-10
+  * Simple array manipulation for Part 1. Part 2 could not be solved with Part 1 code (too large array size), but it was enough to keep track of one array position and and total (virtual) array lenght.
