@@ -19,7 +19,7 @@
 * Day 10: 2021-02-08
   * Array slicing and manipulation (simple circular list), ASCII codes, `hex` decoding. Boring.
 * Day 11: 2021-02-08
-  * Hexe grid representation on square grid, with distance calculation
+  * Hexe grid representation on square grid, with distance calculation.
 * Day 12: 2021-02-08
   * Recursive connections to be sorted out.
 * Day 13: 2021-02-09
@@ -28,5 +28,7 @@
   * Recursive implementation of flood-fill algorithm algorithm. Uses Day 10 hashing algorihtm to generate initial matrix.
 * Day 15: 2021-02-09
   * Linear congruent generators. Using `yield` to align generators with different period.
+* Day 16: 2021-02-10
+  * More string manipulation. Part 2 was a HUGE loop, to be solved looking for a shorter period.
 
   
