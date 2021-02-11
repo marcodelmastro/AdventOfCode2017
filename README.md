@@ -37,3 +37,5 @@
   * Part 2: asyncrounous execution of two programs with mutual I/O
 * **Day 19**: 2021-02-10
   * Path navigation using complex numbers for coordinates and (change of) directions.
+* **Day 20**: 2021-02-11
+  * Simplified 3D particle simulation (distances, collisions).
