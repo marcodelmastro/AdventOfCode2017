@@ -39,3 +39,5 @@
   * Path navigation using complex numbers for coordinates and (change of) directions.
 * **Day 20**: 2021-02-11
   * Simplified 3D particle simulation (distances, collisions).
+* **Day 21**: 2021-02-11
+  * A sort of Conway's game of life with pre-ritten evolution/expansion rules. `numpy` to rotate and flip, a lot array broadcasting. 
