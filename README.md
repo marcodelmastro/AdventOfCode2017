@@ -40,4 +40,7 @@
 * **Day 20**: 2021-02-11
   * Simplified 3D particle simulation (distances, collisions).
 * **Day 21**: 2021-02-11
-  * A sort of Conway's game of life with pre-ritten evolution/expansion rules. `numpy` to rotate and flip, a lot array broadcasting. 
+  * A sort of Conway's Game of Life with pre-ritten evolution/expansion rules. `numpy` to rotate and flip, a lot array broadcasting. 
+* **Day 22**: 2021-02-11
+  * Another sort of Conway's Game of Life, now with a vector changing the grid status and moving accoridng to it. Again, using complex numbers for position and (change or) direction proves very handy! Grid status saved in a dictionary since the grid size is infininte.
+
