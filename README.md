@@ -50,3 +50,7 @@
   * Path finding with a spin (tiles can be arranged in both directions to make bridge). It can be solved with a BFS-like search, but the parameter space quickly explodes, so some heuristic to pruning the candidates was needed both for Part 1 and Part 2.
 * **Day 25**: 2021-02-12
    * Simple as always on day 25, I did not even parsed the input automatically but I did by hand with a few find-and-replace.
+   
+![50 stars](./AOC2017_50stars.png "50 stars")
+
+![Naughy or nice?](./AOC2017_naughty_vs_nice_nonames.png "Naughy or nice?")
