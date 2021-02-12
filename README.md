@@ -45,4 +45,5 @@
   * Another sort of Conway's Game of Life, now with a vector changing the grid status and moving accoridng to it. Again, using complex numbers for position and (change or) direction proves very handy! Grid status saved in a dictionary since the grid size is infininte.
 * **Day 23**:
   * Part 1: 2021-02-11. Again a pseudo-assembly interpreter.
-  * Part 2: **TODO** In order to do this I should probably figure out what the program is doing in Part 2, and then coding in a more efficient way...
+  * Part 2: 2021-02-12. In order to do this I had to figure out what the program was doing in Part 2, and then coding in a more efficient way... I manage to do it by looking at the registers and studying the program starting from the end instructions and going backward. Very difficult!
+
