@@ -46,6 +46,7 @@
 * **Day 23**:
   * Part 1: 2021-02-11. Again a pseudo-assembly interpreter.
   * Part 2: 2021-02-12. In order to do this I had to figure out what the program was doing in Part 2, and then coding in a more efficient way... I manage to do it by looking at the registers and studying the program starting from the end instructions and going backward. Very difficult!
-* **Day 24**:
+* **Day 24**: 2021-02-12
   * Path finding with a spin (tiles can be arranged in both directions to make bridge). It can be solved with a BFS-like search, but the parameter space quickly explodes, so some heuristic to pruning the candidates was needed both for Part 1 and Part 2.
-
+* **Day 25**: 2021-02-12
+   * Simple as always on day 25, I did not even parsed the input automatically but I did by hand with a few find-and-replace.
